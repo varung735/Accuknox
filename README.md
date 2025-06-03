@@ -1,6 +1,6 @@
 ## Thank You For Considering My Application
 
-Deployed Link: 
+Deployed Link: https://accuknox-assignment23.netlify.app/
 
 #### Technologies Used
  - React (JS-based Librart)
