@@ -108,7 +108,7 @@ function Dashboard() {
       ]
     }
   ]);
-  const [displaySideNav, setDisplaySideNav] = useState(true);
+  const [displaySideNav, setDisplaySideNav] = useState(false);
 
   useEffect(() => {
     if(displaySideNav) {
